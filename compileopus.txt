@@ -1,0 +1,11 @@
+ 1257  gcc s.cpp 
+ 1267  gcc e.c 
+ 1272  gcc -g -Wall -o e e.c
+ 1276  gcc -g -Wall -o e e.c
+ 1967  gcc opus1.c 
+ 1969  gcc opus1.c 
+ 1992  gcc opus2.c -I/home/doupa/opus/include -lopus -o opus2
+ 1994  gcc opus2.c -I/home/doupa/opus/include -lopus -o opus2
+ 1996  gcc opus2.c -I/home/doupa/opus/include -lopus -o opus2
+ 2008  history |grep gcc
+ 2009  history |grep gcc > compileopus.txt

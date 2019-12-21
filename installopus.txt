@@ -1,0 +1,23 @@
+ 1035  sudo apt-get install ctags
+ 1278  sudo apt-get install systemtap-sdt-dev
+ 1396  sudo apt install linux-tools-common
+ 1398  sudo apt-get install linux-tools-4.4.0-24-generic linux-cloud-tools-4.4.0-24-generic linux-tools-generic linux-cloud-tools-generic
+ 1423  sudo apt-get install tesseract-ocr
+ 1443  sudo apt-get install pillow
+ 1725  sudo apt install python3-pip
+ 1746  sudo apt install python3-pip
+ 1748  sudo apt install python3-pip
+ 1835  sudo apt-get install libjpeg62:i386 libxinerama1:i386 libxrandr2:i386 libxtst6:i386 ca-certificates
+ 1836  sudo apt-get install -f
+ 1859  apt list golang
+ 1860  sudo apt-get install software-properties-common
+ 1861  sudo add-apt-repository -y ppa:ethereum/ethereum
+ 1862  sudo apt-get update
+ 1863  sudo apt-get install ethereum
+ 1864  sudo apt-get install -y build-essential
+ 1865  'sudo apt autoremove
+ 1866  sudo apt autoremove
+ 1963  sudo apt-get install opus-tools
+ 1968  sudo apt-get install libopus-dev
+ 2010  history |grep apt
+ 2011  history |grep apt >installopus.txt
