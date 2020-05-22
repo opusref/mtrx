@@ -1,6 +1,6 @@
 udp header
-fec header      fecno , fecinnerno
-crypto header   varlen, address, encrypted signature, op, parameter
+fec header      fec-session-no ,fec-packets-total--number,fec-packets-sequence-number
+crypto header   type,len, address, encrypted signature, op, parameters..
 payload header 
               message
               video
