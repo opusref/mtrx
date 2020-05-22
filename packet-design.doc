@@ -1,0 +1,8 @@
+udp header
+fec header      fecno , fecinnerno
+crypto header   varlen, address, encrypted signature, op, parameter
+payload header 
+              message
+              video
+              mqtt
+              etc xml /json
